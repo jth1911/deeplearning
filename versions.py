@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # check library version numbers
 # scipy
 import scipy
@@ -19,3 +20,9 @@ import sklearn
 print('sklearn: %s' % sklearn.__version__)
 import keras
 print('keras: %s' % keras.__version__)
+=======
+# check deep learning version numbers
+# tensorflow
+import tensorflow
+print('tensorflow: %s' % tensorflow.__version__)``
+>>>>>>> 61e504bd57d8bba3aa38a2f6bddff334f9f5d543

@@ -1,6 +1,7 @@
 # deeplearning
 
 ## Install the following packages
+```
 pip install scipy==1.7.3
 pip install numpy==1.21.6
 pip install matplotlib==3.5.3
@@ -8,6 +9,7 @@ pip install pandas==1.3.5
 pip install statsmodels==0.13.2
 pip install sklearn
 pip install tensorflow==2.9.2
+```
 
 ## Verify versions
 ```
